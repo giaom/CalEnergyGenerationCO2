@@ -1,0 +1,31 @@
+Assignment 8. Final Project
+Due Friday by 11:59pm Points 10 Submitting a file upload Available May 23 at 11am - Jun 8 at 11:59pm
+For a final project, you get to work in teams of three or two to (1) come up with a Jupyter notebook with software for renewable energy project, (2) write the code, and (3) present results to the class.
+
+Divide into teams
+We’ll go through a process to put people in teams of three. If we need to, we’ll have one or two teams of two.
+
+Come up with a project
+Have your team brainstorm a project.
+
+What technologies interest you?
+What question could you answer?
+What problem could you solve?
+Have me approve the project. It’s important that it’s not too easy or too difficult. If you’re stuck:
+
+Could you take an existing assignment and do more?
+If totally stuck, I have a project idea for you. Just ask.
+Code the project
+You can refer to the assignments as a starting point. Look things up on the internet if you get stuck – that’s how we do it in real life. Python is often not obvious, but there are lots of examples out there.
+
+Anaconda’s online Jupyter notebook has AI built into it, so you can try that. My experience is that it’s far from perfect, but can give you a starting point. There’s also ChatGPT and Google Gemini. You can always ask me or other teams for help.
+
+Work together as "pair programming" or divide up the work and work independently, combining it later.
+
+Presentation
+Create a PowerPoint presentation with 3 to 6 slides that covers:
+
+Who is on your team?
+What problem did you solve?
+How did you solve it?
+Then lead us through your notebook and take questions.
